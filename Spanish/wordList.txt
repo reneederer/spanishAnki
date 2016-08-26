@@ -1,0 +1,985 @@
+de	of, from
+el	the
+lo	the, for, it
+que	that
+y	and
+él	he, him
+en	in, into, inside, on
+a	a, to
+un	a, an
+ser	to be
+no	no
+su	his
+haber	to have, has
+del	of, from
+con	with
+por	by, for, per
+yo	I
+uno	one
+al	to, to the
+para	for, towards, stop
+como	as, since, like
+más	more
+estar	to be, stay
+todo	everything
+tener	to have
+poder	to be able to, can, might, may
+pero	but
+este	this
+o	or
+hacer	to do, make
+decir	to say, tell
+otro	another, other
+si	if
+sin	without
+mi	my, not me
+ese	that
+ir	to go
+dar	to give
+cuando	when
+ya	already
+ver	to see
+sobre	on
+saber	to know
+el año	year
+entre	between, among
+muy	very, highly
+mismo	same
+qué	what
+mucho	much
+dos	two
+porque	because, why
+sólo	only
+también	also, too
+la vez	time
+el día	day
+aquel	that
+parecer	to seem
+querer	to want
+ni	nor, neither
+pasar	to happen, pass
+hasta	until, even
+llegar	to arrive, come
+tan	so
+deber	to owe
+el hombre	man
+el tiempo	time
+desde	from, since
+nuestro	ours
+poner	to put
+primero	first
+dejar	to leave, to leave behind
+la vida	life
+ahora	now
+tanto	so much
+poco	little, few
+siempre	always
+eso	that
+llevar	to take, carry
+nuevo	new
+quedar	to stay
+la cosa	thing
+nada	nothing
+la parte	part
+la mujer	woman, women
+aunque	though, although
+cada	each
+bien	well, good
+seguir	to follow
+así	like this
+buen	good, well
+algo	something
+hablar	to speak, talk
+donde	where
+volver	to return
+encontrar	to find
+pensar	to think
+la casa	house
+el mundo	world
+último	last
+la mano	hand
+sido	been
+algún	some, any
+propio	own
+conocer	to know, meet
+el momento	moment
+llamar	to call, phone
+sí	yes
+quien	who
+menos	less
+salir	to leave, go out
+alguno	some, any
+mirar	to watch
+casi	almost
+el medio	means, half
+el caso	case
+hacia	towards
+mejor	better
+tres	three
+nunca	never
+la hora	hour
+venir	to come
+la forma	shape
+contra	against
+sino	but, rather
+ante	before
+el ojo	eye
+tratar	to try (to do something), to behave towards
+creer	to believe
+cierto	true, certain
+pues	then, since, because
+tu	your, you
+vivir	to live
+durante	during
+gran	big
+cómo	how
+el señor	sir
+entonces	then
+el padre	father
+sentir	to feel
+mientras	while
+según	according to
+la noche	night
+perder	to lose, miss
+esto	this
+tomar	to take, to drink
+mayor	greater
+usted	you
+la persona	person
+único	only
+único	only, unique
+aquí	here
+bajo	low, short, faint
+abrir	to open, unlock
+solo	alone
+político	political
+españa	spain
+para que	so that
+nadie	nobody, no-one
+esperar	to hope, wait
+la palabra	word
+el lugar	place
+acabar	to finish
+producir	to produce
+empezar	to begin, start
+hoy	today
+contar	to count
+el problema	problem
+preguntar	to ask
+morir	to die
+el don	gift, talent
+aún	still
+cualquier	any
+grande	big, great
+la madre	mother
+claro	clearly, clear
+tarde	late
+allí	there
+el segundo	second
+el cuerpo	body
+el trabajo	job
+general	general
+el / la niño,a	boy, girl
+tras	after
+el hijo / la hija	son, daughter
+convertir	to turn into, convert
+cuyo	whose, of whom
+español	spanish
+posible	possible
+la cabeza	head
+la historia	history
+alto	tall, high, stop
+incluso	even, in fact
+resultar	to turn out, work out, succeed
+luego	then, later
+existir	to exist
+recordar	to remember, remind
+mí	me, not my
+cual	as, like
+después	afterwards, then
+después de	after
+pequeño	small
+el tipo	type, kind
+el / la joven	young person
+entrar	to enter
+tal	so
+escribir	to write
+la agua	water
+el gobierno	government
+el humano	human
+millón	million
+el final	end, final
+todavía	still
+primer	first
+la verdad	truth
+público	public
+el fin	end
+la puerta	door
+la realidad	reality
+viejo	old
+frente	el - front, la - forehead
+el partido	party, game
+el nombre	name
+oír	to hear
+caer	to fall
+conseguir	to obtain
+permitir	to allow
+la gente	people
+la ciudad	city
+el estado	state
+ocurrir	to happen
+el mes	month
+la luz	light, lighting
+mantener	to maintain
+la cuenta	count
+largo	long
+la voz	voice
+el grupo	group
+considerar	to consider
+la razón	reason
+la calle	street
+el paso	step
+aparecer	to appear
+entender	to understand
+el sistema	system
+el libro	book
+el país	country, nation
+además	in addition, besides, furthermore
+buscar	to look for, to seek
+el punto	point
+el / la amigo,a	friend
+cuatro	four
+pedir	to request, ask for
+la muerte	death
+realizar	to make, realize
+la relación	relation
+comenzar	to begin, start
+importante	important
+social	social
+el cambio	change
+el hecho	fact
+mal	badly, poorly, incorrectly
+gustar	to taste, like
+la idea	idea
+suponer	to suppose
+sentar	to seat, sit
+el pueblo	town
+antes de	before
+mañana	tomorrow
+el sentido	heartfelt,sense
+presentar	to present
+la situación	situation
+el amor	love
+decidir	to decide
+demasiado	too much
+negro	black
+recibir	to receive
+la manera	way, manner
+explicar	to explain
+la guerra	war
+la fuerza	force, strength
+servir	to serve
+real	royal, real
+intentar	to try, attempt, intend
+la tierra	earth
+levantar	to lift, raise
+leer	to read
+éste	this one
+el equipo	equipment, team
+el / la presidente	president
+el número	number
+el lado	side
+el siglo	century
+crear	to create
+la sociedad	society
+el efecto	effect
+cuanto	how much, as
+blanco	white
+la familia	family
+ganar	to win
+distinto	different
+el modo	way, manner, mode
+el principio	beginning, principle
+el camino	road
+necesario	necessary
+mostrar	to show
+seguro	safe
+utilizar	to use
+ofrecer	to offer
+la cara	face
+terminar	to finish
+tampoco	neither
+olvidar	to forget
+el pie	foot
+sacar	to remove, take out
+echar	to throw, cast
+ninguno	no, none, nobody, no one
+ayer	yesterday
+disponer	to arrange
+quizá	perhaps, maybe
+preciso	precise
+quién	who
+descubrir	to discover
+lograr	to obtain, achieve, get
+necesitar	to need
+cambiar	to change
+por ejemplo	for example
+cinco	five
+la duda	doubt
+cerrar	to close
+especial	special
+trabajar	to work
+el campo	field
+reconocer	to recognize
+ahí	there
+ahí	there
+la imagen	image
+el estudio	study, studio
+jugar	to play, gambler
+capaz	able
+formar	to form
+el papel	paper
+igual	equal
+el fondo	bottom, rear
+derecho	straight, right
+alcanzar	to reach
+el resultado	result, outcome
+alguien	somebody
+alguien	somebody, someone
+el aire	air
+difícil	difficult
+correr	to run, race
+la obra	work
+científico	scientific
+la posibilidad	possibility
+comprender	to comprehend, to understand
+mil	thousand
+mas	but
+el proceso	process
+el dinero	money
+actual	present
+la semana	week
+la clase	class
+económico	economic, economical
+andar	to walk
+malo	bad
+el total	total
+la ocasión	occasion
+suyo	his/her/its
+demás	rest of the
+apenas	hardly,scarcely
+dirigir	to direct
+demostrar	to demonstrate
+mirada	watched
+meter	to put
+asegurar	to assure
+simple	simple
+aceptar	to accept
+ya que	since
+la condición	condition
+dormir	to sleep
+comer	to eat
+la ley	law
+abandonar	to abandon
+ningún	none
+ésta	is
+escuchar	to listen, heard
+la mesa	table
+natural	natural
+el color	color
+el / la militar	military man
+verdadero	true
+el acuerdo	agreement
+la ciencia	science
+mover	to move, stir
+la mayoría	majority
+responder	to answer
+detener	to stop
+afirmar	to affirm
+la empresa	company
+interior	interior, inner
+ocupar	to occupy
+señalar	to indicate, point out
+el centro	center, downtown
+el sol	sun
+la especie	species
+sufrir	to suffer
+cumplir	to accomplish, carry out
+el interés	interest
+próximo	next
+el tema	theme
+anterior	previous
+el futuro	future
+observar	to observe
+francés	french
+el juego	game, playing
+la libertad	freedom
+antiguo	ancient, old
+determinar	to determine
+suceder	to happen/ occur
+el / la médico,a	doctor
+personal	personal
+bastante	enough, fairly, rather
+el movimiento	movement, motion
+el sueño	dream
+obligar	to force, oblige
+el animal	animal
+pagar	to pay
+política	politics
+la sangre	blood
+tocar	to touch
+hasta que	until, even
+el valor	value
+nacer	to be born
+libre	free
+el silencio	silence
+acercar	to approach
+la zona	zone
+la acción	action
+constituir	to constitute
+diferente	different
+dedicar	to dedicate
+pronto	soon, quick, prompt
+absoluto	absolute
+obtener	to obtain, get
+subir	to raise
+traer	to bring
+la memoria	memory
+el brazo	arm
+el periódico	newspaper
+la película	film, movie
+fuerte	hard, strong
+la prueba	test, proof, evidence
+provocar	to cause
+el corazón	heart
+imaginar	to imagine
+principal	principal
+la presencia	presence
+la edad	age
+referir	to refer
+romper	to break
+dentro de	within, in
+la medida	measurement
+la cultura	culture
+la mar	sea
+la cuestión	matter, affair
+desear	to wish
+menor	minor
+el resto	rest
+faltar	to lack
+la teoría	theory
+el objeto	object
+pesar	to weigh
+allá	there
+el coche	car, automobile, coach, carriage
+la experiencia	experience
+la televisión	television
+repetir	to repeat
+la enfermedad	illness, disease, sickness
+el espacio	space
+la boca	mouth
+extraño	strange, foreign
+siguiente	following, next
+añadir	to add
+fácil	easy
+cuarto	quarter
+el minuto	minute
+ni siquiera	not even
+el miedo	fear
+el / la director(a)	director, manager
+el rostro	face
+pobre	poor
+el suelo	ground, floor
+continuar	to continue
+el recuerdo	memory, remembrance
+diez	ten
+el servicio	service
+la falta	lack
+evitar	to avoid
+peor	worse
+establecer	to establish
+la información	information
+el nivel	level
+la policía	police
+nacional	national
+frío	cold, cool
+dónde	where
+el metro	meter
+duro	hard
+la actividad	activity
+lleno	full
+la época	epoch, period
+el marido	husband
+seis	six
+el viaje	travel
+suficiente	enough
+el / la hermano,a	brother, sister
+junto a	next to
+la necesidad	necessity,need
+el programa	program
+a través de	through, across
+profundo	deep
+el rey	king
+bajar	to bring down, lower, go down
+el / la ministro, a	minister
+pretender	to intend
+el aspecto	aspect
+el asunto	matter, bussiness
+oficial	official
+es decir	that is to say
+la función	function
+desarrollar	to develop
+matar	to kill
+sino que	but that
+la vuelta	return
+la carta	letter
+preparar	to prepare
+tercer	third
+contemplar	to contemplate
+la cama	bed
+desaparecer	to disappear
+el / la físico,a	physical, physicist
+la respuesta	answer
+completo	complete, full
+el / la miembro,a	member
+permanecer	to remain
+el conocimiento	knowlegde
+el proyecto	project
+acompañar	to accompany
+española	Spanish, spaniard
+el secreto	secret
+el gesto	gesture
+negar	to deny
+hallar	to find, discover
+rápido	rapid, quick
+la opinión	opinion
+el diario	newspaper
+la naturaleza	nature
+inmediato	immediate
+representar	to represent
+directo	direct, straight
+tal vez	perhaps
+enorme	enormous
+la piel	skin
+ambos	both
+ayudar	to help
+el dato	data
+cubrir	to cover
+la personaje	person
+definitivo	definitive
+comprar	to buy, purchase
+incluir	to include
+el producto	product
+preferir	to prefer
+la crisis	crisis
+grave	grave, deep
+la atención	attention
+el / la escritor(a)	writer
+común	common
+la capacidad	capacity
+la ventana	window
+europa	europe
+la línea	line
+unir	to unite
+iniciar	to initiate
+el esfuerzo	effort, endeavor, exertion
+comprobar	to check
+europeo	european
+el objetivo	objective
+proponer	to propose, nominate
+puro	pure
+el conjunto	joint, outfit, band
+la elección	election
+el instante	moment, instant
+jamás	never
+estudiar	to study
+barcelona	barcelona
+la operación	operation
+comentar	to comment, discuss, mention
+reducir	to reduce
+el elemento	element
+la diferencia	difference
+la pared	wall
+recoger	to gather, pick up
+rojo	red
+el / la arte	art
+socialista	socialist
+la causa	cause, reason
+colocar	to place, put
+sonreír	to smile
+aprender	to learn
+guardar	to keep
+la carrera	career, degree, run
+actuar	to act
+imposible	impossible
+el golpe	blow
+la célula	cell
+el deseo	desire
+el / la autor(a)	author
+reír	to laugh
+aquello	that
+la existencia	existence
+situar	to locate
+diverso	diverse
+el término	term
+poseer	to posses, own
+vestir	to dress
+quitar	to remove, take away
+el riesgo	risk
+el / la compañero,a	partner, companion
+lanzar	to throw
+publicar	to publish
+el acto	act
+interesar	to interest
+el motivo	reason
+el / la jefe	chief, leader, boss
+afectar	to affect
+oscuro	dark, obscure
+la moral	moral
+el cielo	sky, heaven
+enterar	to find out, inform
+la novela	novel
+serio	serious
+casar	to marry
+marcar	to mark
+despertar	to wake up
+la vista	vision
+superior	superior
+la lengua	language, tongue
+la energía	energy
+con que	so long as
+el cine	cinema, movies
+la decisión	decision
+atrás	back, behind
+crecer	to grow, increase
+el río	river
+la consecuencia	consequence
+el dedo	finger, toe
+bastar	to be enough, suffice
+significar	to mean
+la alma	soul
+la noticia	the news
+anunciar	to announce
+elegir	to choose, select
+normal	normal
+reciente	recent
+varias	several
+la cantidad	quantity
+limitar	to limit
+la iglesia	church
+contestar	to answer, reply
+el dolor	pain
+regresar	to return, come back
+el carácter	character
+entregar	to deliver, give
+la habitación	room, bedroom
+parar	to stop, stand
+enfermo	ill, sick
+el pelo	hair
+la seguridad	security
+el / la modelo	model
+cruzar	to cross
+conducir	to drive
+el origen	origin
+pleno	full, complete
+valer	to be worth
+importar	to matter, be important
+el labio	lip
+así como	as well as, such, like that
+el material	material
+el / la chico,a	boy, girl
+tirar	to throw
+advertir	to notice, warn
+la sombra	shadow
+acudir	to go, come
+impedir	to prevent
+particular	particular, private
+indicar	to indicate
+el / la paciente	patient
+mediante	by means of
+la pregunta	a question
+la espalda	back
+la fuente	source
+la gracia	joy, joke
+privar	deprive
+histórico	historical
+fijar	affix
+el / la jugador(a)	player, gambler
+el mercado	market
+el éxito	success
+la expresión	expression
+celebrar	to celebrate
+figurar	to appear, to represent
+la figura	figure, shape
+profesional	professional
+rodear	to surround, encircle
+cultural	cultural
+vacío	empty
+el par	pair, couple
+usar	to use
+construir	to construct, build
+la paz	peace
+coger	to take
+práctico	practical
+la base	base, basis
+el / la profesor(a)	professor, teacher
+la sensación	sensation, feeling
+aumentar	to increase, raise
+inglés	english
+convencer	to convince
+siete	seven
+sonar	to sound
+la marcha	march
+defender	to defend
+la plaza	seat, square, place
+responsable	responsible
+moderno	modern
+probable	probable
+caber	to fit, go into
+imponer	to impose, command
+el presente	present
+la suerte	luck
+el / la ciudadano,a	citizen
+la comunicación	communication
+la posición	position
+el sitio	place, site
+la defensa	defense
+la serie	series
+el uso	use
+azul	blue
+la música	music
+el pasado	past
+la actitud	attitude
+aun	even
+gritar	to shout, scream
+el / la familiar	familial, family
+la prensa	press
+mandar	to command
+contrario	opposite
+sexual	sexual
+corresponder	to correspond, belong
+la importancia	importance
+la altura	height
+exigir	to demand
+el sector	sector
+la solución	solution
+encima	on top
+llorar	to cry, weep
+la técnica	technique
+el desarrollo	development
+la pierna	leg
+la frase	phrase
+la sonrisa	smile
+el encuentro	encounter, meeting
+la ayuda	aid, help
+la norteamericano	North American
+apoyar	to support, lean
+contener	to contain
+la estructura	structure
+el precio	price, cost
+la conversación	conversation
+la lucha	fight, struggle
+temer	to fear
+ciento	one hundred
+concreto	concrete, specific
+la compañía	company
+ocho	eight
+la arma	weapon
+encender	to light, switch on, set fire to
+la piedra	stone
+pareja	even, couple, pair
+exacto	exact
+el cabo	end, stub
+la conciencia	conscience
+elevar	to elevate, raise
+preocupar	to worry
+verde	green
+el verano	summer
+surgir	to arise
+beber	to drink
+consistir	to consist
+el dios	god
+extremo	extreme
+el / la perro,a	dog, bitch
+la voluntad	will
+el / la doctor(a)	doctor
+el ejemplo	example
+avanzar	to advance
+fundamental	fundamental
+plantear	to expound, raise
+separar	to separate
+escapar	to escape, run away
+estados unidos	united States
+notar	to notice
+insistir	to insist
+arriba	up
+cuál	which, what
+el máximo	maximum
+la salida	exit, departure
+la cadena	chain
+pertenecer	to belong to
+resolver	to solve
+vender	to sell
+el periodista, la periodista	journalist
+desconocer	to not know, fail to recognize
+la pena	pain, penalty
+la revista	magazine
+el / la vecino,a	neighbor
+vivo	alive
+abajo	down, below, downstairs
+partir	to start off, depart, slipt, divide
+el rato	short while
+izquierda	left
+placer	to please
+el sentimiento	feeling
+el sentimiento	feeling
+someter	to subjugate
+adquirir	to acquire
+cantar	to sing
+atreverse	to dare
+la carne	meat
+la distancia	distance
+el peso	weight
+definir	to define
+la esperanza	hope, prospect
+mientras que	whereas, while
+la población	population
+el peligro	danger
+el control	control, check
+mundial	worldwide
+el pensamiento	thought
+la democracia	democracy
+reunir	to unite, join
+justo	just, fair
+enseñar	to teach
+la autoridad	authority
+civil	civil
+declarar	to declare
+el gusto	taste, pleasure, liking
+la masa	mass
+merecer	to deserve
+el espíritu	spirit
+sostener	to maintain, support, hold
+el / la técnico,a	technician
+sorprender	to surprise
+alemán	german
+corriente	current
+veinte	twenty
+evidente	evident
+semejante	similar
+el abuelo	grandfather
+la circunstancia	circumstance
+la flor	flower
+internacional	international
+el&nbsp;plan	plan
+el caballo	horse
+la dificultad	difficulty
+habitual	habitual, usual
+la página	page
+el cuadro	picture, square, painting
+aprovechar	to take advantage of
+exterior	outside, exterior
+el hombro	shoulder
+el puesto	position, place
+la etapa	stage
+el régimen	regime
+caminar	to walk
+el / la capital	capital (el - money, la - city)
+francia	france
+el tono	tone
+cortar	to cut
+perfecto	perfect
+superar	to surpass
+el viento	wind
+alejar	to move away, remove
+el ejército	army
+el destino	destiny, destination
+el método	method
+el texto	text
+amar	to love
+la dirección	address, direction
+el / la individuo,a	individual
+el cerebro	brain
+la entrada	entrance, entry
+la unidad	unit
+además de	in addition to, besides, furthermore
+aplicar	to apply
+lento	slow
+el concepto	concept
+famoso	famous
+llenar	to fill
+la máquina	machine
+el mínimo	minimum
+rico	rich
+el / la tío,a	uncle, aunt
+la tarea	homework
+adelante	forward, ahead
+central	central
+derecha	right
+el sexo	sex
+funcionar	to work, run, function
+el título	title
+el fútbol	soccer, football
+introducir	to introduce, insert
+doble	double
+el árbol	tree
+el / la muchacho,a	boy
+extender	to extend
+el / la extranjero,a	foreigner, foreign
+a partir de	from..on, as of
+la mitad	half
+amplio	ample
+mío	mine
+acordar	to agree
+marchar	to march
+el oro	gold
+cuánto	how much
+recorrer	to cross, travel through
+la reunión	meeting
+participar	to participate
+el pecho	chest
+el / la americano,a	american
+el / la lector(a)	reader
+varios	several
+la violencia	violence
+acaso	perhaps, maybe
+la ropa	clothes
+la frecuencia	frequency
+conservar	to conserve
+la sala	room, living room
+auténtico	authentic
+fuera de	outside of, beyond
+recuperar	to recover
+el error	error, mistake
+el barrio	neighborhood
+la estrella	star
+hermoso	beautiful
+religioso	religious
+el contacto	contact
+el radio	radio
+desde que	since
+enviar	to send
+informar	to inform
+informar	to inform
+loco	crazy, insane
+menudo	small, insignificant
+el análisis	analysis
+la campaña	bell, countryside
+constante	constant
+el fenómeno	phenomenon
+la fiesta	celebration, party
+el fuego	fire
+controlar	to control
+el juicio	judgment, sense
+el piso	floor
+junto	together, joined, close
+el lenguaje	language
+la literatura	literature
+el negocio	business
+la velocidad	speed
+así que	so, therefore
+la costumbre	custom, habit
+depender	to depend
+manifestar	to declare
+la materia	matter
+tender	to strech out
